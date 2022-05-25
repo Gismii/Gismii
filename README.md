@@ -1,7 +1,7 @@
  
  
  
- 👋 Olá, tudo bem seus loucos {
+ 👋 Olá, tudo bem seus loucos { blackgraund : blue;
  
  ***
  
@@ -12,5 +12,5 @@
       ***
       
       }
-
-                      //Currently < javascript/html/css/react/node.js/sqlserv>
+      
+      //Currently < javascript/html/css/react/node.js/sqlserv >
