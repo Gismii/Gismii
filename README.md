@@ -1,7 +1,7 @@
  
  
  
- 👋 Olá, tudo bem seus loucos? {
+ 👋 Olá, tudo bem seus loucos {
  
  ***
  
