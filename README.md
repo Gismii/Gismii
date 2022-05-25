@@ -1,7 +1,7 @@
  
  
  
- 👋 Olá, tudo bem seus loucos { blackgraund : blue;
+ 👋 Olá, tudo bem seus loucos { 
  
  ***
  
@@ -9,7 +9,7 @@
 
       Fiquem avontade para espiar {
       
-      ***
+      blackgraundColor: blue;
       
       }
       
