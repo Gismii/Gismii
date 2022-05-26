@@ -1,4 +1,4 @@
-<img width="200" src="https://media-exp1.licdn.com/dms/image/C4D03AQHqVvDuNcqXOA/profile-displayphoto-shrink_200_200/0/1557540735407?e=1658966400&amp;v=beta&amp;t=P5Yq6o8yN1-SnYewXoKQhUpFDz4xSHCB0gDFsXbl5-E" height="200" alt="Gismi Guimarães" id="ember1115" class="ember-view profile-photo-edit__preview">
+
 <h1 class="text-heading-xlarge inline t-24 v-align-middle break-words">Gismi Guimarães</h1>
 <div class="text-body-medium break-words">
       Software Support | SaaS | B2B 
@@ -7,6 +7,4 @@
       Santa Catarina, Brasil
     </span>
     <ul class="pv-top-card--list pv-top-card--list-bullet display-flex pb1"> 
-
-     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-    
+<img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>      ///  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>  <img src="https://img.icons8.com/color/48/000000/react-native.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-sql-file-computer-programming-icons-flaticons-lineal-color-flat-icons.png"/> <img src="https://img.icons8.com/fluency/48/000000/python.png"/> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-scrum-agile-flaticons-flat-flat-icons-2.png"/>
