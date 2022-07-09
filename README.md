@@ -5,7 +5,6 @@
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=gismii&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gismii&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 
-
 </div>
   
   
@@ -20,8 +19,8 @@
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   </div>
   
-  ##
   
+
   <div> 
 
 
