@@ -20,7 +20,7 @@
   <img align="center" alt="postegreSql" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"vspace="15" hspace="15">
   <img align="center" alt="mySQL" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"vspace="15" hspace="15"> 
   <img align="center" alt="spring" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"vspace="15" hspace="15">
-  <img align="center" alt="react" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="react" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
   </div>
   
   
