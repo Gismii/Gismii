@@ -4,16 +4,13 @@
 <a href ="https://www.linkedin.com/in/gismi-guimar%C3%A3es-52216b169/">About Me</a> 
 
 
-🧑‍💻   Systems analysis and development student, ...)
+
 
 🧑‍🔬☕   Learning full stack in java.
 
 🧑🔭 Talented self-taught.
 
 🧑👨‍💻 Excellent communication skill
-
-🧑🌱 Question?
-
 
 
 <img align="center" alt="Avatar" height="200" width="200" src="https://camo.githubusercontent.com/932de7203822cd30c97c3738ea06eb3b41d580daf9f9efc2adb5a6f5d3e98c13/68747470733a2f2f717463696e666f746563682e636f6d2f696d616765732f7765622d646576656c6f706d656e742f636d732d776562736974652d646576656c6f706d656e742d736572766963652e676966">
