@@ -78,14 +78,12 @@
 
   
   
-
-  # I created this simple app with react!
-  ## => React, axios lib, javaScript, external API.
   
-  ![Captura de tela 2022-10-31 103529](https://user-images.githubusercontent.com/97984496/199023162-04b8c0c9-d9c2-4dd9-9967-230bf44fe944.png)
+  # TWITTER APPLICATION
+
+  ![image](https://user-images.githubusercontent.com/97984496/203213901-194b8812-5103-4069-967d-4c7c8f5fd434.png)
 
   
- 
 
   # Getting Started with Create React App
 
