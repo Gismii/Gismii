@@ -21,7 +21,7 @@
   <div align="center">
   
   <a href="https://github.com/Gismii">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gismii&show_icons=false&theme=chartreuse-dark&include_all_commits=true&count_public="/ >
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gismii&show_icons=true&theme=chartreuse-dark&include_all_commits=false&count_public="/ >
   <img height="190em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gismii&show_layout=compact&langs_count=7&theme=chartreuse-dark"/>
 
   </div>
@@ -66,17 +66,6 @@
 
   <img width="785" alt="Captura_de_Tela_2022-10-20_às_01 26 50" src="https://user-images.githubusercontent.com/97984496/199169208-9582b13e-936e-4046-8318-2a2db4f6da38.png">
 
-  
-  
-  🌐🌐🌐🌐👾
-  
-  # LandingPage
-## Projeto lab365
-### Criei essa pagina utilizando HTML5 e CSS.
-
-![Captura de tela 2022-11-01 194421](https://user-images.githubusercontent.com/97984496/199356340-dafb7a57-1860-4fce-a8c4-a5c7f2da1522.png)
-
-  
   
   
   # TWITTER APPLICATION
