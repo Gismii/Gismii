@@ -6,7 +6,7 @@
 
 
 
-🧑‍🔬☕   Learning full stack in java.
+🧑‍🔬☕  Learning full stack in java.
 
 🧑🔭  Talented self-taught.
 
