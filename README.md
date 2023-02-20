@@ -1,9 +1,6 @@
 
 <div>
 
-<a href ="https://www.linkedin.com/in/gismi-guimar%C3%A3es-52216b169/">About Me</a> 
-
-
 
 
 🧑‍🔬☕  Learning full stack in java.
@@ -20,7 +17,7 @@
   
   <a href="https://github.com/Gismii">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gismii&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_public="/ >
-  <img height="190em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gismii&show_layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="190em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gismii&show_layout=compact&langs_count=7&theme=chartreuse-dark" />
 
   </div>
   
