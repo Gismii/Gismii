@@ -59,14 +59,31 @@
   
  # Microservices with Java and Spring Framework.
 
-#### I develop java applications and microservices. Using all spring structure. Truth be told, this is the best stack for a developer. 
+#### I develop java applications and microservices. Using all spring structure.  
+  
+  <div>
+    
+    
+    
+    
+    
+    
+    
+ <div>
   
   
+ 
+ <div>    
+   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  height="135" width="135"/>
+   
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"   height="150" width="150"/>
+   
+ <img src="https://user-images.githubusercontent.com/97984496/221335439-283e1c5e-e9d6-4af5-8b45-711a4c8e23c3.png" height="350" />
 
-  
-            
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain.svg" />
-          
+  </div>
+
+
   
 
   
