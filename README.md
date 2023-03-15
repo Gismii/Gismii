@@ -59,7 +59,7 @@
   
  # Architecture Microservices with Spring Boot
 
-#### I develop java applications and microservices. Using all spring structure.  
+#### Development of microservices with java and spring boot..  
   
   <div>
     
