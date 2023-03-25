@@ -11,13 +11,9 @@
 <img align="center" alt="Avatar" height="200" width="200" src="https://camo.githubusercontent.com/932de7203822cd30c97c3738ea06eb3b41d580daf9f9efc2adb5a6f5d3e98c13/68747470733a2f2f717463696e666f746563682e636f6d2f696d616765732f7765622d646576656c6f706d656e742f636d732d776562736974652d646576656c6f706d656e742d736572766963652e676966">
 
 </div>
-
-
-  <div align="center">
   
-  <a href="https://github.com/Gismii">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gismii&show_icons=false&theme=chartreuse-dark&include_all_commits=true&count_public="/ >
-  <img height="190em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gismii&show_layout=compact&langs_count=7&theme=chartreuse-dark" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gismii&show_icons=true&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gismii&layout=compact)](https://github.com/Gismii/github-readme-stats)
 
   </div>
   
