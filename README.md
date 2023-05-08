@@ -53,8 +53,6 @@ Apps Mobile moderno com o Android Studio em Java Kotlin SQLite Json API REST Web
 
 >Telas com Menus;
 
->Diversos modelos de Layouts suportados pelo Android em Smartphones ou Tablets;
-
 >Boas práticas de programação;
 
 >Padrões de projetos como MVC;
