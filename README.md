@@ -79,7 +79,7 @@ Apps Mobile moderno com o Android Studio em Java Kotlin SQLite Json API REST Web
   
 ## Aplicação Fullstack ( Java Spring, React, PostgreSQL )
 
-#Foram criados componentes React e React Hooks para auxiliar  as funcionalidades da nossa aplicação. Utilizei o Typescript para garantir uma melhor manutenibilidade do código. Além disso, o frontend com o backend já construído, utilizando a biblioteca Axios para fazer as requisições HTTP e React Query para buscar, armazenar em cache, sincronizar e atualizar o estado do servidor na nossa aplicação.
+Foram criados componentes React e React Hooks para auxiliar  as funcionalidades da nossa aplicação. Utilizei o Typescript para garantir uma melhor manutenibilidade do código. Além disso, o frontend com o backend já construído, utilizando a biblioteca Axios para fazer as requisições HTTP e React Query para buscar, armazenar em cache, sincronizar e atualizar o estado do servidor na nossa aplicação.
 
 Backend:
 
