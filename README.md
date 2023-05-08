@@ -44,34 +44,34 @@ My technology background helps me develop skills to deal with complex challenges
 # Current projects:
 
 ## App-Android-List
-Desenvolvendo uma aplicação android/Java -  compativel apartir da versão 8.
-Apps Mobile moderno com o Android Studio em Java Kotlin SQLite Json API REST Web Services.
+Developing an Android/Java application - compatible from version 8.
+Modern mobile apps with Android Studio in Java Kotlin SQLite Json API REST Web Services.
 
-> Telas de Apresentação (Splash);
+> Presentation Screens (Splash);
 
->Telas de Login;
+>Login screens;
 
->Telas com Menus;
+>Screens with Menus;
 
->Boas práticas de programação;
+>Good programming practices;
 
->Padrões de projetos como MVC;
+>Design patterns like MVC;
 
->Integração completa com Banco de Dados e criação de CRUD orientado a objetos;
+>Full integration with Database and object-oriented CRUD creation;
 
->Persistência de dados com Banco de Dados SQLite Local;
+>Data persistence with Local SQLite Database;
 
->Persistência de dados com Banco de Dados MySQL Remoto na Web;
+>Data persistence with Remote MySQL Database on the Web;
 
->Integração com Web Services para troca de dados com outros sistemas ou Backend;
+>Integration with Web Services to exchange data with other systems or Backend;
 
->Envio de e-mail, SMS, compartilhamento nas redes sociais;
+>Sending e-mail, SMS, sharing on social networks;
 
->Utilização dos recursos Nativos do Android nas versões mais recentes das APIs;
+>Use of native Android resources in the latest versions of the APIs;
 
->Os fundamentos da Programação Orientada à Objetos em todos os projetos e
+>The fundamentals of Object Oriented Programming in all projects and
 
->Os fundamentos da Linguagem SQL com exemplos utilizando SQLite e MySQ.
+>The fundamentals of the SQL language with examples using SQLite and MySQ.
 
 ![Captura de tela de 2023-05-08 06-01-06](https://user-images.githubusercontent.com/97984496/236784725-365f124f-3c59-453a-9288-a57b70d4a482.png)
   
@@ -79,11 +79,11 @@ Apps Mobile moderno com o Android Studio em Java Kotlin SQLite Json API REST Web
   
 ## Aplicação Fullstack ( Java Spring, React, PostgreSQL )
 
-Foram criados componentes React e React Hooks para auxiliar  as funcionalidades da nossa aplicação. Utilizei o Typescript para garantir uma melhor manutenibilidade do código. Além disso, o frontend com o backend já construído, utilizando a biblioteca Axios para fazer as requisições HTTP e React Query para buscar, armazenar em cache, sincronizar e atualizar o estado do servidor na nossa aplicação.
+React components and React Hooks were created to support the functionality of our application. I used Typescript to ensure better code maintainability. In addition, the frontend with the backend already built, using the Axios library to make HTTP and React Query requests to fetch, cache, synchronize and update the server state in our application.
 
 Backend:
 
-Utilizei Java Spring e Spring MVC para criação do servidor, Spring Data JPA para manipulação e persistência de dados, Lombok para geração de boilerplates e Postgres Driver para realizar a conexão com banco de dados Postgress.
+I used Java Spring and Spring MVC to create the server, Spring Data JPA to manipulate and persist data, Lombok to generate boilerplates and Postgres Driver to connect to the Postgress database.
 
   
   ![homis](https://user-images.githubusercontent.com/97984496/236815273-f1f8bbc9-dd0e-4c98-b364-648a40bd3a80.png)
