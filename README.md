@@ -65,8 +65,15 @@ My technology background helps me develop skills to deal with complex challenges
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="55" height="65" vspace="15" hspace="15"/>
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55" vspace="15" hspace="15"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" vspace="15" hspace="15"/>
+            
   </a>
+
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="postman" width="45" height="45" vspace="15" hspace="15"/>
+            
+  </a>
+  
  
 </p>
   
