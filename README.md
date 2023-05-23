@@ -43,10 +43,10 @@ My technology background helps me develop skills to deal with complex challenges
 
 # Current projects:
 
-## App-Android-List
+## App-Android-List <img width="48" height="58" src="https://img.icons8.com/fluency/58/android.png" alt="android"/>
 Developing an Android/Java application - compatible from version 8.
 Modern mobile apps with Android Studio in Java Kotlin SQLite Json API REST Web Services.
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/android.png" alt="android"/>
+
 > Presentation Screens (Splash);
 
 >Login screens;
