@@ -8,7 +8,7 @@
 
 My technology background helps me develop skills to deal with complex challenges and find creative solutions. My goal is to keep growing and excited about challenging and innovative projects.
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gismii&label=Profile%20views&color=0e75b6&style=flat" alt="Gismii" /> </p>
 
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gismii&show_icons=true&theme=highcontrast)
