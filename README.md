@@ -46,7 +46,7 @@ My technology background helps me develop skills to deal with complex challenges
 ## App-Android-List
 Developing an Android/Java application - compatible from version 8.
 Modern mobile apps with Android Studio in Java Kotlin SQLite Json API REST Web Services.
-
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/android.png" alt="android"/>
 > Presentation Screens (Splash);
 
 >Login screens;
@@ -73,29 +73,16 @@ Modern mobile apps with Android Studio in Java Kotlin SQLite Json API REST Web S
 
 >The fundamentals of the SQL language with examples using SQLite and MySQ.
 
-![Captura de tela de 2023-05-08 06-01-06](https://user-images.githubusercontent.com/97984496/236784725-365f124f-3c59-453a-9288-a57b70d4a482.png)
-  
-  
-  
-## Aplicação Fullstack ( Java Spring, React, PostgreSQL )
-
-React components and React Hooks were created to support the functionality of our application. I used Typescript to ensure better code maintainability. In addition, the frontend with the backend already built, using the Axios library to make HTTP and React Query requests to fetch, cache, synchronize and update the server state in our application.
-
-Backend:
-
-I used Java Spring and Spring MVC to create the server, Spring Data JPA to manipulate and persist data, Lombok to generate boilerplates and Postgres Driver to connect to the Postgress database.
 
   
-  ![homis](https://user-images.githubusercontent.com/97984496/236815273-f1f8bbc9-dd0e-4c98-b364-648a40bd3a80.png)
-
-  ![Design sem nome](https://user-images.githubusercontent.com/97984496/236815287-eb1411f6-7991-495d-b0d8-c788a444f37d.png)
-
+ 
   
 
 
   
 
-  
+
+
   
   
 
