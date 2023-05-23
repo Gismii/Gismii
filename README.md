@@ -2,7 +2,7 @@
 <div>
 
 
-🧑🔭  Talented self-taught.
+🧑🔭 
   
   I'm a technology professional with experience in several areas of business. Throughout my career, I have always been passionate about solving problems and learning from them.
 
