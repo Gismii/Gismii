@@ -85,39 +85,6 @@ My technology background helps me develop skills to deal with complex challenges
   </div>
  
 
-<br><br><br>
-# Current projects:
-
-## App-Android-List <img width="48" height="58" src="https://img.icons8.com/fluency/58/android.png" alt="android"/>
-Developing an Android/Java application - compatible from version 8.
-Modern mobile apps with Android Studio in Java Kotlin SQLite Json API REST Web Services.
-
-> Presentation Screens (Splash);
-
->Login screens;
-
->Screens with Menus;
-
->Good programming practices;
-
->Design patterns like MVC;
-
->Full integration with Database and object-oriented CRUD creation;
-
->Data persistence with Local SQLite Database;
-
->Data persistence with Remote MySQL Database on the Web;
-
->Integration with Web Services to exchange data with other systems or Backend;
-
->Sending e-mail, SMS, sharing on social networks;
-
->Use of native Android resources in the latest versions of the APIs;
-
->The fundamentals of Object Oriented Programming in all projects and
-
->The fundamentals of the SQL language with examples using SQLite and MySQ.
-
 
   
  
