@@ -77,7 +77,19 @@ My technology background helps me develop skills to deal with complex challenges
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="postman" width="45" height="45" vspace="15" hspace="15"/>
             
   </a>
-  
+ 
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="postman" width="48" height="48" vspace="15" hspace="15"/>
+            
+  </a>
+
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" alt="postman" width="64" height="64" vspace="15" hspace="15"/>
+
+       
+            
+  </a>
  
 </p>
   
