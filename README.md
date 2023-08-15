@@ -18,14 +18,6 @@ My technology background helps me develop skills to deal with complex challenges
   
 
   
-  
-  <div> 
-  
-  <a href="https://www.linkedin.com/in/gismi-guimar%C3%A3es-52216b169/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/gismii/gismii/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
 
  <div style="display: inline_block"><br>
 
