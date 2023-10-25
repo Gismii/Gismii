@@ -4,10 +4,6 @@
 
 🧑🔭 
   
-  I'm a technology professional with experience in several areas of business. Throughout my career, I have always been passionate about solving problems and learning from them.
-
-My technology background helps me develop skills to deal with complex challenges and find creative solutions. My goal is to keep growing and excited about challenging and innovative projects.
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gismii&label=Profile%20views&color=0e75b6&style=flat" alt="Gismii" /> </p>
 
   
