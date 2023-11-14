@@ -27,9 +27,6 @@
    <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="spring" width="55" height="65" vspace="15" hspace="15"/>
   </a>
-<a href="https://quarkus.io/" target="_blank" rel="noreferrer">
-    <img src="https://quarkus.io/assets/images/quarkus_logo_horizontal_rgb_600px_reverse.png" alt="spring" width="165" height="50" vspace="15" hspace="15"/>
-  </a>
   
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" alt="intellij" width="85" height="95" vspace="15" hspace="15"/>
