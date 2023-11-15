@@ -2,8 +2,13 @@
 <div>
 
 
-🧑🔭 
-  
+<a href="https://blog.gismi.tech/">
+  <img src="https://github.com/Gismii/Gismii/assets/97984496/dda2294a-a6a9-4ca5-b822-17608e3f75ae" alt="Descrição do Ícone" style="width: 80px; height: auto; border: none;">
+</a>
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gismii&label=Profile%20views&color=0e75b6&style=flat" alt="Gismii" /> </p>
 
   
