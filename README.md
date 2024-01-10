@@ -22,10 +22,13 @@
    <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="65" height="75" vspace="15" hspace="15"/>
   </a>
-   <a href="https://spring.io/" target="_blank" rel="noreferrer">
+<a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="spring" width="55" height="65" vspace="15" hspace="15"/>
   </a>
-  
+ <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="java" width="65" height="75" vspace="15" hspace="15"/>
+  </a>
+   
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" alt="intellij" width="85" height="95" vspace="15" hspace="15"/>
   </a>
@@ -66,13 +69,6 @@
             
   </a>
 
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" alt="postman" width="64" height="64" vspace="15" hspace="15"/>
-
-       
-            
-  </a>
  
 </p>
   
