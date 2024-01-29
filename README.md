@@ -78,7 +78,7 @@
 <br />
 <br />
 
-# 🔥 Utilizando a lib Redux em react!
+# 🔥 Flux do Redux em react!
 
 - [Repository](https://github.com/Gismii/React_Redux_userReducer)
 
