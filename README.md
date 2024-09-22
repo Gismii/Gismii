@@ -20,6 +20,9 @@
  <a href="https://www.java.com" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="59.78" height="69.58" vspace="15" hspace="15"/>
 </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="java" width="59.78" height="69.58" vspace="15" hspace="15"/>
+</a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="spring" width="49.98" height="59.78" vspace="15" hspace="15"/>
 </a>
